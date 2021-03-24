@@ -1,0 +1,9 @@
+ {
+    "id":68,
+    "name":"Sâmea1",
+    "email":"samea@samea.teste",
+    "gender":"Female",
+    "status":"Active",
+    "created_at":"2021-03-24T03:50:04.592+05:30",
+    "updated_at":"2021-03-24T03:50:04.592+05:30"
+}
